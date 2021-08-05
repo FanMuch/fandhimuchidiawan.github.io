@@ -6,11 +6,24 @@ body {
   padding-top: 6rem;
   background-color: #e2edff;
 }
-
-#projects {
-  background-color: #e2edff;
+.banner {
+  background: url('https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg') no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
 }
 
+#projects {
+  background-color: #27292a;
+}
+#kontak {
+  background-color: #27292a;
+}
+
+#gallery {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 section {
   padding-top: 5rem;
 }
